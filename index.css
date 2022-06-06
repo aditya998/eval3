@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    color: #0a68ab;
+    text-align: center;
+    text-decoration: underline;
+    margin: 5px;
+}
+body> div {
+    display: flex;
+    
+    justify-content: space-between;
+    padding: 20px;
+    
+    
+}
+form {
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 25%;
+}
+input{
+    margin: 5px 0px 5px 0px;
+    width: 90%;
+    
+}
+
+input:last-child{
+    background-color: #0a68ab;
+    
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+}
+thead{
+    background-color: #0a68ab;
+    color: white;
+    
+    
+}
+th{
+    
+    padding: 10px;
+}
+
